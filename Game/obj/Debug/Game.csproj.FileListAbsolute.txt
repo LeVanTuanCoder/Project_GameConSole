@@ -1,0 +1,11 @@
+C:\Users\Le Van Tuan\Desktop\OOP\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Le Van Tuan\Desktop\OOP\Game\Game\bin\Debug\Game.exe
+C:\Users\Le Van Tuan\Desktop\OOP\Game\Game\bin\Debug\Game.pdb
+C:\Users\Le Van Tuan\Desktop\OOP\Game\Game\obj\Debug\Game.exe
+C:\Users\Le Van Tuan\Desktop\OOP\Game\Game\obj\Debug\Game.pdb
+C:\Users\Le Van Tuan\Desktop\GameConsole\Game\bin\Debug\Game.exe.config
+C:\Users\Le Van Tuan\Desktop\GameConsole\Game\obj\Debug\Game.exe
+C:\Users\Le Van Tuan\Desktop\GameConsole\Game\obj\Debug\Game.pdb
+C:\Users\Le Van Tuan\Desktop\GameConsole\Game\bin\Debug\Game.exe
+C:\Users\Le Van Tuan\Desktop\GameConsole\Game\bin\Debug\Game.pdb
+C:\Users\Le Van Tuan\Desktop\GameConsole\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
